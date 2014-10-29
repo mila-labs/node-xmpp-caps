@@ -1,0 +1,17 @@
+{
+  "node": true,
+  "curly": true,
+  "camelcase": true,
+  "eqeqeq": true,
+  "maxdepth": 3,
+  "maxlen": 100,
+  "newcap": true,
+  "latedef": true,
+  "noarg": true,
+  "unused": true,
+  "trailing": true,
+  "strict": true,
+  "indent": 2,
+  "nonbsp": true,
+  "laxcomma": true
+}

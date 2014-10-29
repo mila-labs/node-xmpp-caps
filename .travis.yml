@@ -1,0 +1,6 @@
+#
+# .travis.yml
+#
+
+language: node_js
+script: make test-coveralls
