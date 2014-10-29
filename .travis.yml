@@ -3,4 +3,4 @@
 #
 
 language: node_js
-script: make test-coveralls
+script: make test-coverage
