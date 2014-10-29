@@ -20,7 +20,7 @@
     "mocha-lcov-reporter": "0.0.1"
   },
   "dependencies": {
-    "ltx": "^0.7.0",
+    "ltx": "^0.7.0"
   },
    "repository": {
     "type": "git",
