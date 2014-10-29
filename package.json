@@ -1,6 +1,6 @@
 {
   "name": "node-xmpp-caps",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "XEP-0115 entity capabilities for node-xmpp",
   "main": "index.js",
   "scripts": {
