@@ -16,9 +16,11 @@
     "coveralls": "^2.11.2",
     "istanbul": "^0.3.2",
     "jshint": "^2.5.7",
-    "ltx": "^0.7.0",
     "mocha": "^2.0.1",
     "mocha-lcov-reporter": "0.0.1"
+  },
+  "dependencies": {
+    "ltx": "^0.7.0",
   },
    "repository": {
     "type": "git",
