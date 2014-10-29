@@ -68,7 +68,7 @@ var c = caps.fromQueryNode(queryNode);
 
 ## Contributing
 We're happy to get contributions. If you do so, please submit a PR which has running tests
-in it and that jshint doesn't complain anymore.
+in it and make sure jshint doesn't complain :).
 
 Thanks!
 
