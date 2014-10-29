@@ -2,9 +2,15 @@
 
 XEP-0115 entity capabilities for node-xmpp
 
-[![Build Status](https://travis-ci.org/mila-labs/node-xmpp-caps.png?branch=master)](https://travis-ci.org/mila-labs/node-xmpp-caps) [![Coverage Status](https://img.shields.io/coveralls/mila-labs/node-xmpp-caps.svg)](https://coveralls.io/r/mila-labs/node-xmpp-caps?branch=master)
+[![Build Status](https://travis-ci.org/mila-labs/node-xmpp-caps.png?branch=master)](https://travis-ci.org/mila-labs/node-xmpp-caps) [![Coverage Status](https://img.shields.io/coveralls/mila-labs/node-xmpp-caps.svg)](https://coveralls.io/r/mila-labs/node-xmpp-caps?branch=master) [![NPM Version](https://badge.fury.io/js/node-xmpp-caps.png)](https://npmjs.org/package/node-xmpp-caps)
 
 ## Usage
+
+### Installation
+
+```
+$ npm install node-xmpp-caps
+```
 
 ### Creating a `c` node
 
