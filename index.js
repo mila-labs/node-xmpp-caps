@@ -5,7 +5,6 @@
  * @copyright Mila AG
  * @license MIT
  */
-
 'use strict';
 
 var crypto = require('crypto')
